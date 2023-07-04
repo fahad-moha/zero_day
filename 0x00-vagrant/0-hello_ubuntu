@@ -1,0 +1,4 @@
+The uname command, when run without any options, prints the name of the operating system onwhich it is running. Specifically, it prints the name of the current kernel. The output typically includes information such as the system's architecture and the kernel version.
+
+For example, on a Linux system, running the uname command without any options might produceoutput that looks something like this:
+# Linux
